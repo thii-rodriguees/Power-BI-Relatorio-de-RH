@@ -14,5 +14,6 @@ Tinhamos como problema localizar possíveis motivos de desligamentos, e o que no
 E junto com os filtros conseguimos visualizar as áreas em que mais temos os desligamentos, as posições de cargo, gênero e todo esse compilado de informações é usado para direcionar novos métodos, novas culturas, cada decisão de acordo com a necessidade do modelo de negócio estabelecido.
 
 
+
 DASHBOARD - Para maiores informações, ou duvidas pode-se acessar o dash, a partir do link abaixo.
 https://app.powerbi.com/groups/me/reports/377c59fa-5d05-4cc2-9576-29ff00f5b6f0/ReportSection?bookmarkGuid=Bookmark879a8a0e0ed30c0bcb4c
