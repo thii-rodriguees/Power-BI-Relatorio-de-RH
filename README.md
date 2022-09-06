@@ -1,4 +1,4 @@
-# Power-BI-Relat-rio-de-RH
+# Power-BI-Relatorio-de-RH
 
 <img width="652" alt="image" src="https://user-images.githubusercontent.com/103518697/188488653-bf85ca6f-e599-40ec-b4d1-3002f1e56adc.png">
 
